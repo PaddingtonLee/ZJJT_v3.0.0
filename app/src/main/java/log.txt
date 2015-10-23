@@ -4,3 +4,5 @@ ZJJT_v3.0.0
         在AndroidManifest.xml中添加上权限和最适配的Android版本
     20151022 2238
         刚刚还在测试git但是一如既往的没成功
+    20151023 1011
+        刚刚测试了一下git bash，貌似是成功了
