@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="D:\ProjectAndroid\ProForAndroidStudio\ZJJT_v3.0.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="D:\ProjectAndroid\ProForAndroidStudio\ZJJT_v3.0.0\app\build\intermediates\pre-dexed\debug\classes-7266b675f67c500223d45029a176d73e3c042457.jar" />
-    </item>
-    <item
         jar="D:\ProjectAndroid\ProForAndroidStudio\ZJJT_v3.0.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.0"
@@ -28,6 +21,13 @@
         revision="23.0.0"
         sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
         <dex dex="D:\ProjectAndroid\ProForAndroidStudio\ZJJT_v3.0.0\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-d066225e84139d82dc9a3da3960b2629adade07c.jar" />
+    </item>
+    <item
+        jar="D:\ProjectAndroid\ProForAndroidStudio\ZJJT_v3.0.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\ProjectAndroid\ProForAndroidStudio\ZJJT_v3.0.0\app\build\intermediates\pre-dexed\debug\classes-7266b675f67c500223d45029a176d73e3c042457.jar" />
     </item>
 
 </items>
